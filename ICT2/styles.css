@@ -1,3 +1,4 @@
+<!--Patrick sendiri-->
 body {
   background-image: linear-gradient(90deg, rgba(253, 255, 122, 0.57) 15%, rgba(247, 25, 136, 1) 100%);
   color: rgb(107, 30, 30);
@@ -67,4 +68,5 @@ button {
 .VINCENT10 h2, .VINCENT10 p {
   text-align: center;
   margin: 8px 0;
+
 }
