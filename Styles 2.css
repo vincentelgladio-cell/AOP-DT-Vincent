@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    height:0 ;
+    background-color: rgb(154, 154, 154);
+    cursor: url("tiger.cur.png"), auto;
+
+}
+
+
+.VINCENT1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 30px;
+}
+
+
+.VINCENT4 {
+    display: flex;
+    justify-content: center;  
+    gap: 25px;                
+    flex-wrap: wrap;          
+    margin-top: 25px;
+    text-align: center;
+}
+
+
+.VINCENT3 {
+    text-align: center;
+}
+
+
+.VINCENT5 {
+  width: 350px;
+  background: rgb(154, 154, 154);
+  border-radius: 14px;
+  padding: 15px;
+  box-sizing: border-box;
+ box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin-bottom: 66px;
+}
+
+.VINCENT6 {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;   
+  display: block;
+}
+
+.VINCENT8 {
+  width: 350px;
+  background: rgb(154, 154, 154);
+  border-radius: 14px;
+  padding: 15px;
+  box-sizing: border-box;
+ box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}   
+
+.VINCENT7 {
+    display: flex;
+    justify-content: center;  
+    gap: 25px;                
+    flex-wrap: wrap;          
+    margin-top: 25px;
+}
+
+
+@keyframes colorcycle {
+    0%   { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
+}
+
+
+.VINCENT5:hover {
+    background-color:rgb(154, 154, 154);
+    color: rgb(0, 0, 0);
+    transform: scale(1.08);
+}
+
