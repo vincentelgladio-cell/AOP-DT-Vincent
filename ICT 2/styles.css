@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  cursor: url("tiger.cur"), auto;
+  cursor: url("tiger.cur.png"), auto;
   
 }
 .AFOAAJKF {
@@ -67,4 +67,5 @@ button {
 .VINCENT10 h2, .VINCENT10 p {
   text-align: center;
   margin: 8px 0;
+
 }
