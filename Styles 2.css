@@ -8,9 +8,10 @@ body {
 
 }
 
-.ahjbfebu
-     width: 55px;
-
+.ahjbfebu {
+    width: 55px;
+    height: auto;
+}
 .VINCENT1 {
     display: flex;
     align-items: center;
@@ -96,6 +97,7 @@ body {
     transform: scale(1.08);
 }
 /*VINCENT TUGAS INDIVIDU*/
+
 
 
 
