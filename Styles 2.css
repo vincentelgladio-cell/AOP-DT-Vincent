@@ -12,6 +12,7 @@ body {
     width: 55px;
     height: auto;
 }
+
 .VINCENT1 {
     display: flex;
     align-items: center;
@@ -20,6 +21,9 @@ body {
     margin-top: 30px;
 }
 
+.andoawd ul {
+text-align: center;
+}
 
 .VINCENT4 {
     display: flex;
@@ -97,6 +101,7 @@ body {
     transform: scale(1.08);
 }
 /*VINCENT TUGAS INDIVIDU*/
+
 
 
 
